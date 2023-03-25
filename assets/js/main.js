@@ -66,18 +66,7 @@ form.addEventListener("submit", (e) => {
       if (form.dataset.reset === 'true') {
         form.reset();
       }
-    } else {
-      // Display the error message
-      notification.textContent = 'Error: Message Not Sent.😕';
-
-      // Show the notification element
-      notification.style.display = 'block';
-
-      // Hide the notification after 3 seconds
-      setTimeout(() => {
-        notification.style.display = 'none';
-      }, 3000);
-    }
+    } 
   });
 });
 
