@@ -38,9 +38,9 @@ form.addEventListener("submit", (e) => {
 
   // Send the form data as an email using SMTPJS
   Email.send({
-    SecureToken: "46602fb1-217f-4ac0-b97c-71910020ac47",
+    SecureToken: "790726d4-f1d4-4b94-bf55-02e9513f9315",
     To: "contact.ayansarkar@gmail.com",
-    From: formData.get("email"),
+    From: "contact.ayansarkar@gmail.com",
     Subject: "New message from " + formData.get("name"),
     Body: "<html><body>" +
       "<h2>New message from " + formData.get("name") + "</h2>" +
