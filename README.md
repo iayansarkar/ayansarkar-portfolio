@@ -16,14 +16,6 @@ Welcome to my personal portfolio! My name is Ayan Sarkar and I am a Student from
 
 **Demo Links:** [ https://ayansarkar.dev ]
 
-## Education
-
-### [Degree/Major] - [University Name]
-
-[Insert a brief description of your degree program, including any notable achievements or projects you worked on.]
-
-**Dates of Attendance:** [Insert the dates you attended the university.]
-
 ## Contact Me
 
 **Email:** contact [dot] ayansarkar [at] gmail [dot] com
