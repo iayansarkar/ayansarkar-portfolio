@@ -16,28 +16,6 @@ Welcome to my personal portfolio! My name is Ayan Sarkar and I am a Student from
 
 **Demo Links:** [ https://ayansarkar.dev ]
 
-### [Project Name]
-
-[Insert a brief description of the project, including what it is, what it does, and any notable features. Include screenshots and/or a video demo if possible.]
-
-**Technologies Used:** [Insert a list of the technologies used in the project, such as programming languages, frameworks, tools, etc.]
-
-**Links:** [Insert links to the project, such as GitHub repo, live demo, etc.]
-
-## Work Experience
-
-### [Company Name]
-
-[Insert a brief description of your role and responsibilities at the company, as well as any notable achievements or projects you worked on.]
-
-**Dates of Employment:** [Insert the dates you worked at the company.]
-
-### [Company Name]
-
-[Insert a brief description of your role and responsibilities at the company, as well as any notable achievements or projects you worked on.]
-
-**Dates of Employment:** [Insert the dates you worked at the company.]
-
 ## Education
 
 ### [Degree/Major] - [University Name]
@@ -48,6 +26,6 @@ Welcome to my personal portfolio! My name is Ayan Sarkar and I am a Student from
 
 ## Contact Me
 
-[Insert your contact information, including your email address, phone number, and social media links.]
+[ contact[dot]ayansarkar[at]gmail[dot]com ]
 
 Thank you for visiting my portfolio! If you have any questions or would like to work together, please feel free to contact me.
