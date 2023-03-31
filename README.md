@@ -14,7 +14,7 @@ Welcome to my personal portfolio! My name is Ayan Sarkar and I am a Student from
 
 **Technologies Used:** [Insert a list of the technologies used in the project, such as programming languages, frameworks, tools, etc.]
 
-**Links:** [https://ayansarkar.dev]
+**Demo Links:** [ https://ayansarkar.dev ]
 
 ### [Project Name]
 
