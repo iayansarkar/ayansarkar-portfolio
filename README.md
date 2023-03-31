@@ -12,7 +12,7 @@ Welcome to my personal portfolio! My name is Ayan Sarkar and I am a Student from
 
 [Insert a brief description of the project, including what it is, what it does, and any notable features. Include screenshots and/or a video demo if possible.]
 
-**Technologies Used:** <li>sdsf</li>
+**Technologies Used:** <li>HTML</li><li>CSS</li><li>SCSS</li><li>JAVASCRIPT</li>
 
 **Demo Links:** [ https://ayansarkar.dev ]
 
