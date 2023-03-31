@@ -26,6 +26,6 @@ Welcome to my personal portfolio! My name is Ayan Sarkar and I am a Student from
 
 ## Contact Me
 
-[ contact [dot] ayansarkar [at] gmail [dot] com ]
+**Email** contact [dot] ayansarkar [at] gmail [dot] com
 
 Thank you for visiting my portfolio! If you have any questions or would like to work together, please feel free to contact me.
