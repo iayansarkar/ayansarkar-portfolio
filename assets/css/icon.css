@@ -1,3 +1,7 @@
+.icon-container {
+    padding: 2px;
+    float: left;
+}
 .eicon-html5 { 
     display: inline-block;
     width: 50px;
