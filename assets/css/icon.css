@@ -2,18 +2,6 @@
     padding: 5px;
     float: left;
 }
-[class*="eicon-"] {
-    display: block;
-}
-[class*="eicon-"]:before {
-    content: '';
-    display: block;
-    width: 1em;
-    height: 1em;
-    background-repeat: no-repeat;
-    background-size: contain;
-    -webkit-backdrop-size: contain;
-}
 .eicon-html5 { 
     display: inline-block;
     width: 50px;
