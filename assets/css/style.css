@@ -443,3 +443,8 @@ img {
   background-size: contain; /* adjust to fit the container size */
   /* other CSS properties */
 }
+
+
+.ctm-btn {
+  justify-content: center;
+}
